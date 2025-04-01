@@ -3,10 +3,12 @@
 *this is my test italic*
 
 __bold test__
+
 <!-- U list -->
-+one
--two
-*three
++ one
+- two
+* three
+
 <!-- O list -->
 1. one 
 2. two
